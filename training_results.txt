@@ -1,0 +1,12 @@
+Validation Loss for Epoch #1 : 2.1037893295288086
+Validation Loss for Epoch #2 : 2.0307743549346924
+Validation Loss for Epoch #3 : 2.456385850906372
+Validation Accuracy for Epoch #1 : 0.7213850021362305
+Validation Accuracy for Epoch #2 : 0.687253475189209
+Validation Accuracy for Epoch #3 : 0.7360237836837769
+Training Loss for Epoch #1 : 0.03450242389528941
+Training Loss for Epoch #2 : 0.026438982089921178
+Training Loss for Epoch #3 : 0.021929824430991368
+Training Accuracy for Epoch #1 : 0.9972135
+Training Accuracy for Epoch #2 : 0.9977643
+Training Accuracy for Epoch #3 : 0.9982371
